@@ -1,0 +1,2 @@
+Empleo de repositorios de control de versiones en Git y afianzar los conceptos de "pull request" en el workflow GitHub Flow.
+Desarrollo de los pasos que hay que seguir para definir todo el ciclo de trabajo GitHub Flow.
